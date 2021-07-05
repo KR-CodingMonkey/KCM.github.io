@@ -21,3 +21,11 @@
       url: "about"
     - title: "News"
       url: "news"
+
+- title: Algorithm
+  url: algorithm
+  links:
+    - title: "Graph"
+      url: "algorithm/graph"
+    - title: "Dinamic Programming"
+      url: "algorithm/dinamic"
