@@ -1,0 +1,4 @@
+---
+title: Graph
+permalink: /graph/
+---

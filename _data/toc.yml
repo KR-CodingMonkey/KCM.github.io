@@ -26,6 +26,6 @@
   url: algorithm
   links:
     - title: "Graph"
-      url: "algorithm/Graph"
+      url: "pages/algorithm/Graph"
     - title: "Dinamic Programming"
-      url: "algorithm/DP"
+      url: "pages/algorithm/DP"
