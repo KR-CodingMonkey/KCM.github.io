@@ -28,4 +28,4 @@
     - title: "Graph"
       url: "pages/algorithm/Graph"
     - title: "Dinamic Programming"
-      url: "pages/algorithm/DP"
+      url: "algorithm/DP"
