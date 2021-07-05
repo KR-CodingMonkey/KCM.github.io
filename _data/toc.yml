@@ -10,20 +10,20 @@
           url: "docs/getting-started#development"
         - title: Customization
           url: "docs/getting-started#customization"
-    - title: "Extras"
-      url: "docs/extras"
-      children:
-        - title: Quizzes
-          url: "docs/extras/example-quiz"
-        - title: Tags Page
-          url: "tags"
-    - title: "About"
-      url: "about"
-    - title: "News"
-      url: "news"
+- title: "Extras"
+  url: "docs/extras"
+  children:
+    - title: Quizzes
+      url: "docs/extras/example-quiz"
+    - title: Tags Page
+      url: "tags"
+- title: "About"
+  url: "about"
+- title: "News"
+  url: "news"
 
 - title: Algorithm
-  url: algorithm
+  url: "algorithm"
   links:
     - title: Graph
       url: "docs/algorithm/Graph"
